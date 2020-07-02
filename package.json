@@ -11,7 +11,7 @@
     "vue": "^2.1.10",
     "vue-class-component": "^4.4.0",
     "vue-router": "^2.2.0",
-    "vuets": "^0.9.2"
+    "vuets": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
